@@ -29,31 +29,31 @@ The following images are the pages rendered from the supplied project presentati
 
 #### Project Presentation — Page 1
 
-![Project Presentation Page 1](./assets/project-presentation-page-1.png)
+![Project Presentation Page 1](./assets/project-presentation-page-1.jpeg)
 
 #### Project Presentation — Page 2
 
-![Project Presentation Page 2](./assets/project-presentation-page-2.png)
+![Project Presentation Page 2](./assets/project-presentation-page-2.jpeg)
 
 #### Project Presentation — Page 3
 
-![Project Presentation Page 3](./assets/project-presentation-page-3.png)
+![Project Presentation Page 3](./assets/project-presentation-page-3.jpeg)
 
 #### Project Presentation — Page 4
 
-![Project Presentation Page 4](./assets/project-presentation-page-4.png)
+![Project Presentation Page 4](./assets/project-presentation-page-4.jpeg)
 
 #### Project Presentation — Page 5
 
-![Project Presentation Page 5](./assets/project-presentation-page-5.png)
+![Project Presentation Page 5](./assets/project-presentation-page-5.jpeg)
 
 #### Project Presentation — Page 6
 
-![Project Presentation Page 6](./assets/project-presentation-page-6.png)
+![Project Presentation Page 6](./assets/project-presentation-page-6.jpeg)
 
 #### Project Presentation — Page 7
 
-![Project Presentation Page 7](./assets/project-presentation-page-7.png)
+![Project Presentation Page 7](./assets/project-presentation-page-7.jpeg)
 
 
 ---

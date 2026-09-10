@@ -432,10 +432,10 @@ PROTECT-R/
 
 | Name | College | Role |
 |---|---|---|
-| Balaji S | Team Leader / Systems Architect |
+| Balaji S | Systems Architect / PCB Designer |
 | Pranay V | Embedded Systems (Hardware) / Backend Engineer |
 | Roshan M | AI / Edge Engineer |
-| Lohith Ashwa S | Communication Systems / PCB Designer |
+| Lohith Ashwa S | Communication Systems / Frontend Designer |
 
 ---
 

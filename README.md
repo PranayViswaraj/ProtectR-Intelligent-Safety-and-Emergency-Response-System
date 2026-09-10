@@ -51,9 +51,6 @@ The following images are the pages rendered from the supplied project presentati
 
 ![Project Presentation Page 6](./assets/project-presentation-page-6.jpeg)
 
-#### Project Presentation — Page 7
-
-![Project Presentation Page 7](./assets/project-presentation-page-7.jpeg)
 
 
 ---

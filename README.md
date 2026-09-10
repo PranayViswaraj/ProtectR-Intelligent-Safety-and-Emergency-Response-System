@@ -432,10 +432,10 @@ PROTECT-R/
 
 | Name | College | Role |
 |---|---|---|
-| Balaji S | SVCE | Team Leader / Systems Architect |
-| Lohith Ashwa S | SVCE | Communication & Backend Engineer |
-| Pranay V | SVCE | Embedded Systems / Hardware |
-| Kamalam K | SVCE | AI / Edge Engineer |
+| Balaji S | Team Leader / Systems Architect |
+| Pranay V | Embedded Systems (Hardware) / Backend Engineer |
+| Roshan M | AI / Edge Engineer |
+| Lohith Ashwa S | Communication Systems / PCB Designer |
 
 ---
 
